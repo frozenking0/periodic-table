@@ -3,7 +3,7 @@
 A responsive, dynamic **Periodic Table of Elements** built from scratch using vanilla web technologies. This application fetches real-time atomic data from an open-source API to map out all 118 elements.
 
 ## Live Demo
-**[Click here to view the live project!]https://frozenking0.github.io/periodic-table/**
+**[Click here to view the live project!] https://frozenking0.github.io/periodic-table/**
 
 ## Features
 **Live 118-Element Fetch:** Automatically requests and streams chemical data from a remote server using asynchronous JavaScript.
